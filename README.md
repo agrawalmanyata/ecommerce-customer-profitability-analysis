@@ -11,9 +11,11 @@ The project involved large-scale data integration, data quality auditing, featur
 ## Repository Contents
 
 - `Ecommerce_Customer_Analytics.ipynb`
+  
   End-to-end analytical workflow including data cleaning, feature engineering, exploratory analysis, profitability analysis, customer segmentation, promotional impact assessment, and business recommendations.
 
 - `Ecommerce Customer Analytics Report.pdf`
+  
   Detailed report summarizing methodology, data quality findings, business insights, visualizations, recommendations, and future opportunities.
 
 ## Tools & Technologies
